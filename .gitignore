@@ -1,0 +1,11 @@
+# Archivos de seguridad (¡NUNCA SUBIR CLAVES PRIVADAS!)
+key.pem
+cert.pem
+
+# Carpetas de datos locales
+server_files/
+client_files/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
